@@ -22,6 +22,7 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Eric McCabe: https://www.youtube.com/watch?v=i1EpPiLZx4I
 * Bradley Williams: https://www.youtube.com/watch?v=BpbUVdQNIbc
 * Nick Carroll: https://www.youtube.com/watch?v=--za2ktaDb4
+* Garry Patton: https://www.youtube.com/watch?v=sThbzbwyz6A
 
 
 ### Plotting

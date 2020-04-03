@@ -7,6 +7,7 @@ plotting makes from the 10ft - 1hr challenges (spoilers!)
 * Brodie Smith: https://www.youtube.com/watch?v=Sxw80hDND8U
 * Paige Pierce: https://www.youtube.com/watch?v=YkJrlwri7KA
 * Luke Callaghan - Disc Golf Kid: https://www.youtube.com/watch?v=NaSb834_z80
+* Bradley Williams 2.0: https://www.youtube.com/watch?v=qLnqmDK-WfY
 
 
 ### videos with no listed timings!

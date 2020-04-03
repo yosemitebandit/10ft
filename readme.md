@@ -1,4 +1,4 @@
-plotting makes from the 10ft - 1hr challenges (spoilers!)
+plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 
 
 ### videos with timing info
@@ -17,3 +17,16 @@ plotting makes from the 10ft - 1hr challenges (spoilers!)
 * Hunter Thomas: https://www.youtube.com/watch?v=89gcWp1EABs
 * Eric McCabe: https://www.youtube.com/watch?v=i1EpPiLZx4I
 * Bradley Williams: https://www.youtube.com/watch?v=BpbUVdQNIbc
+
+
+### running
+
+```
+$ poetry install
+$ poetry run python plot.py
+$ open /tmp/out.png
+```
+
+
+### results
+![Results](results.png?raw=true "Results")

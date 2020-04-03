@@ -1,5 +1,7 @@
 """Plot data from the 10ft challenge."""
 
+import itertools
+
 import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
@@ -46,8 +48,33 @@ with open("data.csv") as datafile:
 
 # Plot.
 figure, axis = plt.subplots()
-for p in players:
-    axis.plot(p.times, p.distances, label=p.name)
+markerstyles = itertools.cycle(("o", "x", "+", "*", "^"))
+for player in players:
+    # First plot a faint line.
+    axis.step(
+        player.times,
+        player.distances,
+        "--",
+        label=None,
+        linewidth=1,
+        color="#cccccc",
+        where="post",
+    )
+    marker = next(markerstyles)
+    if marker in ("+", "x"):
+        edge_width = 2
+    else:
+        edge_width = 1
+    axis.step(
+        player.times,
+        player.distances,
+        marker=marker,
+        label=player.name,
+        linewidth=0,
+        markersize=10,
+        markeredgewidth=edge_width,
+        where="post",
+    )
 
 # Format.
 axis.set(

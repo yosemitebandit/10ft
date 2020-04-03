@@ -81,7 +81,6 @@ axis.set(
     ylabel="distance (ft)",
     title="Simon's 10ft, 1hr Challenge",
 )
-axis.grid(linestyle=":")
 formatter = matplotlib.ticker.FuncFormatter(
     lambda s, x: "{:d}min".format(int(s / 60))
 )

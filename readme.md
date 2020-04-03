@@ -1,7 +1,7 @@
 plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 
 
-### videos with timing info
+### Videos with timing info
 
 * Simon Lizotte: https://www.youtube.com/watch?v=J-td1obxYa4
 * Brodie Smith: https://www.youtube.com/watch?v=Sxw80hDND8U
@@ -10,7 +10,7 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Bradley Williams 2.0: https://www.youtube.com/watch?v=qLnqmDK-WfY
 
 
-### videos with no listed timings!
+### Videos *without* timing info
 
 * Ricky Wysocki: https://www.youtube.com/watch?v=pQlNWQqsQjE
 * Drew Gibson (lol): https://www.youtube.com/watch?v=9YMJ8iSxt6I
@@ -19,7 +19,7 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Bradley Williams: https://www.youtube.com/watch?v=BpbUVdQNIbc
 
 
-### running
+### Plotting
 
 ```
 $ poetry install
@@ -28,5 +28,5 @@ $ open /tmp/out.png
 ```
 
 
-### results
+### Results
 ![Results](results.png?raw=true "Results")

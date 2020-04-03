@@ -24,7 +24,7 @@ class Player(object):
         """Parse a CSV row."""
         entities = csv_row.split(",")
         self.name = entities[0]
-        self.starts_throwing_at = entities[1]
+        self.starts_throwing_at = int(entities[1])
         # Parse the timing data.  Each value is of the form "59:54" or "44:01" which is
         # how much time is *remaining* when they made the shot.  We'll invert that to be
         # the time that had elapsed.
@@ -50,7 +50,7 @@ with open("data.csv") as datafile:
 figure, axis = plt.subplots()
 markerstyles = itertools.cycle(("o", "x", "+", "*", "^"))
 for player in players:
-    # First plot a faint line.
+    # First plot a faint background line.
     axis.step(
         player.times,
         player.distances,
@@ -60,6 +60,7 @@ for player in players:
         color="#cccccc",
         where="post",
     )
+    # Plot a colorful marker.
     marker = next(markerstyles)
     if marker in ("+", "x"):
         edge_width = 2
@@ -75,6 +76,34 @@ for player in players:
         markeredgewidth=edge_width,
         where="post",
     )
+    # Circle the transition from putting -> throwing.
+    index = player.distances.index(player.starts_throwing_at)
+    axis.step(
+        player.times[index],
+        player.starts_throwing_at,
+        marker="o",
+        label=None,
+        linewidth=1,
+        markersize=20,
+        markeredgewidth=1,
+        fillstyle='none',
+        color="#cccccc",
+        where="post",
+    )
+
+# "Plot" one more entry as a hack to update the legend with some explanatory text.
+axis.step(
+    [],
+    [],
+    'o',
+    label="Player starts throwing",
+    linewidth=1,
+    markersize=20,
+    markeredgewidth=1,
+    fillstyle='none',
+    color="#cccccc",
+)
+
 
 # Format.
 axis.set(

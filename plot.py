@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 
 
-# Set the plot's font sizes.
+# Set the plot font sizes.
 plt.rc("font", size=18)
 plt.rc("axes", titlesize=22)
 plt.rc("axes", labelsize=20)
@@ -16,7 +16,7 @@ plt.rc("figure", titlesize=32)
 
 
 class Player(object):
-    """Data from one player."""
+    """Encapsulate data from one player."""
 
     def __init__(self, csv_row):
         """Parse a CSV row."""
@@ -55,13 +55,13 @@ axis.set(
     title="Simon's 10ft, 1hr Challenge",
 )
 axis.grid(linestyle=":")
-axis.legend()
 formatter = matplotlib.ticker.FuncFormatter(
     lambda s, x: "{:d}min".format(int(s / 60))
 )
 axis.xaxis.set_major_formatter(formatter)
 tick_spacing = 10 * 60
 axis.xaxis.set_major_locator(ticker.MultipleLocator(tick_spacing))
+axis.legend()
 
 # Save.
 figure.set_size_inches(16, 10)

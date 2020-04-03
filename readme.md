@@ -9,6 +9,7 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Luke Callaghan - Disc Golf Kid: https://www.youtube.com/watch?v=NaSb834_z80
 * Bradley Williams 2.0: https://www.youtube.com/watch?v=qLnqmDK-WfY
 * TODO: Disc Golf with Brady: https://www.youtube.com/watch?v=qYkntxIMUwk
+* TODO: dB Disc Golf (5min challenge): https://www.youtube.com/watch?v=1sXnG6kfMoE
 
 
 ### Videos *without* timing info

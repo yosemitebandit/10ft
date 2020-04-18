@@ -9,7 +9,9 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Luke Callaghan - Disc Golf Kid: https://www.youtube.com/watch?v=NaSb834_z80
 * Bradley Williams 2.0: https://www.youtube.com/watch?v=qLnqmDK-WfY
 * Disc Golf with Brady (/u/theexistentialfox): https://www.youtube.com/watch?v=qYkntxIMUwk
+* Andrew Preznell: https://www.youtube.com/watch?v=eb_2HcXgRrg
 * TODO: dB Disc Golf (5min challenge): https://www.youtube.com/watch?v=1sXnG6kfMoE
+* TODO: Nova Politte: https://www.youtube.com/watch?v=BdFUVFXWQw8
 
 
 ### Videos *without* timing info
@@ -21,6 +23,7 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * Eric McCabe: https://www.youtube.com/watch?v=i1EpPiLZx4I
 * Bradley Williams: https://www.youtube.com/watch?v=BpbUVdQNIbc
 * Nick Carroll: https://www.youtube.com/watch?v=--za2ktaDb4
+* Garry Patton: https://www.youtube.com/watch?v=sThbzbwyz6A
 
 
 ### Plotting

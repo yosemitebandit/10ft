@@ -3,40 +3,43 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 
 ### Videos with timing info
 
-* Simon Lizotte: https://www.youtube.com/watch?v=J-td1obxYa4
-* Brodie Smith: https://www.youtube.com/watch?v=Sxw80hDND8U
-* Paige Pierce: https://www.youtube.com/watch?v=YkJrlwri7KA
-* Luke Callaghan - Disc Golf Kid: https://www.youtube.com/watch?v=NaSb834_z80
-* Bradley Williams 2.0: https://www.youtube.com/watch?v=qLnqmDK-WfY
-* Disc Golf with Brady (/u/theexistentialfox): https://www.youtube.com/watch?v=qYkntxIMUwk
-* Andrew Preznell: https://www.youtube.com/watch?v=eb_2HcXgRrg
-* Nova Politte: https://www.youtube.com/watch?v=BdFUVFXWQw8
-* dB Disc Golf (5min challenge): https://www.youtube.com/watch?v=1sXnG6kfMoE
-* TODO: Paul McBeth and Nick Carl: https://www.youtube.com/watch?v=4L3eQCXOMRI
-* TODO: Chris Clemons: https://www.youtube.com/watch?v=vIQEhm0QA5w
-* TODO: Tristan Tanner: https://www.youtube.com/watch?v=40TaycvYIuw
-* TODO: Michael Holt: https://www.youtube.com/watch?v=d2GaD5krwoQ
-* TODO: Oskari Vikström: https://www.youtube.com/watch?v=Fg5I1HshLzs
-* TODO: Pierre Landry: https://www.youtube.com/watch?v=JaVLlPYdwMU
-* TODO: GK Pro Team: https://www.youtube.com/watch?v=Epb6qnU2pQ0
-* TODO: DGK's Dad: https://www.youtube.com/watch?v=6apP-YJTSlg
-* TODO: Robert Horton: https://www.youtube.com/watch?v=zUS9VMp4_M0
-* TODO: Jason Sullivan: https://www.youtube.com/watch?v=pCXhvwn2WlY
-* TODO: Frisbee Rob: https://www.youtube.com/watch?v=Gxel70oKK8M
-* TODO: Kevin, The Amateur DG: https://www.youtube.com/watch?v=Yjo2xOZnoZc
-* TODO: Brian Guo: https://www.youtube.com/watch?v=GV9kpHhDmhA
-* TODO: Nathaniel Romans: https://www.youtube.com/watch?v=_DtTH3BR9mM
-* TODO: Connor O'Reilly: https://www.youtube.com/watch?v=Lablfybr83c
-* TODO: Disc Golf Examiner: https://www.youtube.com/watch?v=h_BZVdeLw2w
-* TODO: Carter Hatch: https://www.youtube.com/watch?v=uBDAG8w4VcE
-* TODO: Zac Fries: https://www.youtube.com/watch?v=EOY86hSqKts
-* TODO: Dadbod Fishing: https://www.youtube.com/watch?v=lHU4upK0X2g
-* TODO: Jānis Dombrovskis: https://www.youtube.com/watch?v=FRgLrw4dixc
-* TODO: Kimberly Giannola: https://www.youtube.com/watch?v=ADvUUoTvDQQ
-* TODO: Olivia Kindstedt: https://www.youtube.com/watch?v=Ov8IhLgbH64
-* TODO: Greg Hearn and Michael Curtiss: https://www.youtube.com/watch?v=WyxRTanbFts
-* TODO: Steve Esarey: https://www.youtube.com/watch?v=2DusVta-h90
-* TODO: Andrew Wallen: https://www.youtube.com/watch?v=Q2AizTiXiYM
+0.  Paul McBeth and Nick Carl: https://www.youtube.com/watch?v=4L3eQCXOMRI
+0.  Disc Golf with Brady (/u/theexistentialfox): https://www.youtube.com/watch?v=qYkntxIMUwk
+0.  Simon Lizotte: https://www.youtube.com/watch?v=J-td1obxYa4
+0.  Bradley Williams 2.0: https://www.youtube.com/watch?v=qLnqmDK-WfY
+0.  Brodie Smith: https://www.youtube.com/watch?v=Sxw80hDND8U
+0.  Paige Pierce: https://www.youtube.com/watch?v=YkJrlwri7KA
+0.  Luke Callaghan - Disc Golf Kid: https://www.youtube.com/watch?v=NaSb834_z80
+0.  Andrew Preznell: https://www.youtube.com/watch?v=eb_2HcXgRrg
+0.  Nova Politte: https://www.youtube.com/watch?v=BdFUVFXWQw8
+0.  dB Disc Golf (5min challenge): https://www.youtube.com/watch?v=1sXnG6kfMoE
+
+
+### TODO: videos with timing info that are yet-to-be-transcribed
+* Chris Clemons: https://www.youtube.com/watch?v=vIQEhm0QA5w
+* Tristan Tanner: https://www.youtube.com/watch?v=40TaycvYIuw
+* Michael Holt: https://www.youtube.com/watch?v=d2GaD5krwoQ
+* Oskari Vikström: https://www.youtube.com/watch?v=Fg5I1HshLzs
+* Pierre Landry: https://www.youtube.com/watch?v=JaVLlPYdwMU
+* GK Pro Team: https://www.youtube.com/watch?v=Epb6qnU2pQ0
+* DGK's Dad: https://www.youtube.com/watch?v=6apP-YJTSlg
+* Robert Horton: https://www.youtube.com/watch?v=zUS9VMp4_M0
+* Jason Sullivan: https://www.youtube.com/watch?v=pCXhvwn2WlY
+* Frisbee Rob: https://www.youtube.com/watch?v=Gxel70oKK8M
+* Kevin, The Amateur DG: https://www.youtube.com/watch?v=Yjo2xOZnoZc
+* Brian Guo: https://www.youtube.com/watch?v=GV9kpHhDmhA
+* Nathaniel Romans: https://www.youtube.com/watch?v=_DtTH3BR9mM
+* Connor O'Reilly: https://www.youtube.com/watch?v=Lablfybr83c
+* Disc Golf Examiner: https://www.youtube.com/watch?v=h_BZVdeLw2w
+* Carter Hatch: https://www.youtube.com/watch?v=uBDAG8w4VcE
+* Zac Fries: https://www.youtube.com/watch?v=EOY86hSqKts
+* Dadbod Fishing: https://www.youtube.com/watch?v=lHU4upK0X2g
+* Jānis Dombrovskis: https://www.youtube.com/watch?v=FRgLrw4dixc
+* Kimberly Giannola: https://www.youtube.com/watch?v=ADvUUoTvDQQ
+* Olivia Kindstedt: https://www.youtube.com/watch?v=Ov8IhLgbH64
+* Greg Hearn and Michael Curtiss: https://www.youtube.com/watch?v=WyxRTanbFts
+* Steve Esarey: https://www.youtube.com/watch?v=2DusVta-h90
+* Andrew Wallen: https://www.youtube.com/watch?v=Q2AizTiXiYM
 
 
 ### Videos *without* timing info

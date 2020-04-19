@@ -63,7 +63,7 @@ for player in players:
     )
 
 # Then plot the markers on top.
-markerstyles = itertools.cycle(("o", "x", "+", "*", "^"))
+markerstyles = itertools.cycle(("o", "x", "+", "*", "^", "d", ">", "<", "s"))
 for player in players:
     marker = next(markerstyles)
     if marker in ("+", "x"):

@@ -124,7 +124,9 @@ axis.xaxis.set_major_formatter(formatter)
 tick_spacing = 10 * 60
 axis.xaxis.set_major_locator(ticker.MultipleLocator(tick_spacing))
 axis.yaxis.set_ticks(range(0, 200, 20))
-axis.legend()
+box = axis.get_position()
+axis.set_position([box.x0, box.y0, box.width * 0.8, box.height])
+axis.legend(loc="center left", bbox_to_anchor=(1, 0.5))
 
 # Save.
 figure.set_size_inches(16, 10)

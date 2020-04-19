@@ -123,6 +123,7 @@ formatter = matplotlib.ticker.FuncFormatter(
 axis.xaxis.set_major_formatter(formatter)
 tick_spacing = 10 * 60
 axis.xaxis.set_major_locator(ticker.MultipleLocator(tick_spacing))
+axis.yaxis.set_ticks(range(0, 200, 20))
 axis.legend()
 
 # Save.

@@ -44,7 +44,7 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 
 ### Videos *without* timing info
 
-* Paul McBeth: https://www.instagram.com/p/B-dbVYHgFND
+* Paul McBeth (first attempt): https://www.instagram.com/p/B-dbVYHgFND
 * Ricky Wysocki: https://www.youtube.com/watch?v=pQlNWQqsQjE
 * Drew Gibson (lol): https://www.youtube.com/watch?v=9YMJ8iSxt6I
 * Hunter Thomas: https://www.youtube.com/watch?v=89gcWp1EABs

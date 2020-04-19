@@ -49,11 +49,9 @@ with open("data.csv") as datafile:
             continue
         players.append(Player(line.strip()))
 
-# Plot.
+# Plot, starting with a faint background line.
 figure, axis = plt.subplots()
-markerstyles = itertools.cycle(("o", "x", "+", "*", "^"))
 for player in players:
-    # First plot a faint background line.
     axis.step(
         player.times,
         player.distances,
@@ -63,7 +61,10 @@ for player in players:
         color="#cccccc",
         where="post",
     )
-    # Plot a colorful marker.
+
+# Then plot the markers on top.
+markerstyles = itertools.cycle(("o", "x", "+", "*", "^"))
+for player in players:
     marker = next(markerstyles)
     if marker in ("+", "x"):
         edge_width = 2
@@ -79,7 +80,9 @@ for player in players:
         markeredgewidth=edge_width,
         where="post",
     )
-    # Circle the transition from putting -> throwing.
+
+# Then circle the transition from putting -> throwing.
+for player in players:
     if player.starts_throwing_at:
         index = player.distances.index(player.starts_throwing_at)
         axis.step(
@@ -95,7 +98,7 @@ for player in players:
             where="post",
         )
 
-# "Plot" one more entry as a hack to update the legend with some explanatory text.
+# Finally plot one more entry as a hack to update the legend with some explanatory text.
 axis.step(
     [],
     [],

@@ -3,16 +3,16 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 
 ### Videos with timing info
 
-0.  Paul McBeth and Nick Carl: https://www.youtube.com/watch?v=4L3eQCXOMRI
-0.  Disc Golf with Brady (/u/theexistentialfox): https://www.youtube.com/watch?v=qYkntxIMUwk
-0.  Simon Lizotte: https://www.youtube.com/watch?v=J-td1obxYa4
-0.  Bradley Williams 2.0: https://www.youtube.com/watch?v=qLnqmDK-WfY
-0.  Brodie Smith: https://www.youtube.com/watch?v=Sxw80hDND8U
-0.  Paige Pierce: https://www.youtube.com/watch?v=YkJrlwri7KA
-0.  Luke Callaghan - Disc Golf Kid: https://www.youtube.com/watch?v=NaSb834_z80
-0.  Andrew Preznell: https://www.youtube.com/watch?v=eb_2HcXgRrg
-0.  Nova Politte: https://www.youtube.com/watch?v=BdFUVFXWQw8
-0.  dB Disc Golf (5min challenge): https://www.youtube.com/watch?v=1sXnG6kfMoE
+1.  Paul McBeth and Nick Carl: https://www.youtube.com/watch?v=4L3eQCXOMRI
+1.  Disc Golf with Brady (/u/theexistentialfox): https://www.youtube.com/watch?v=qYkntxIMUwk
+1.  Simon Lizotte: https://www.youtube.com/watch?v=J-td1obxYa4
+1.  Bradley Williams 2.0: https://www.youtube.com/watch?v=qLnqmDK-WfY
+1.  Brodie Smith: https://www.youtube.com/watch?v=Sxw80hDND8U
+1.  Paige Pierce: https://www.youtube.com/watch?v=YkJrlwri7KA
+1.  Luke Callaghan - Disc Golf Kid: https://www.youtube.com/watch?v=NaSb834_z80
+1.  Andrew Preznell: https://www.youtube.com/watch?v=eb_2HcXgRrg
+1.  Nova Politte: https://www.youtube.com/watch?v=BdFUVFXWQw8
+1.  dB Disc Golf (5min challenge): https://www.youtube.com/watch?v=1sXnG6kfMoE
 
 
 ### TODO: videos with timing info that are yet-to-be-transcribed

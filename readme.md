@@ -106,3 +106,7 @@ $ open /tmp/out.png
 
 ### Results
 ![Results](results.png?raw=true "Results")
+
+
+### TODOS
+* annotate total distance for all videos

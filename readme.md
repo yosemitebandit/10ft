@@ -3,23 +3,23 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 
 ### Videos with timing info
 
-1.  Paul McBeth and Nick Carl: https://www.youtube.com/watch?v=4L3eQCXOMRI
-1.  Disc Golf with Brady (/u/theexistentialfox): https://www.youtube.com/watch?v=qYkntxIMUwk
-1.  Simon Lizotte: https://www.youtube.com/watch?v=J-td1obxYa4
-1.  Bradley Williams 2.0: https://www.youtube.com/watch?v=qLnqmDK-WfY
-1.  Brodie Smith: https://www.youtube.com/watch?v=Sxw80hDND8U
-1.  Paige Pierce: https://www.youtube.com/watch?v=YkJrlwri7KA
-1.  Luke Callaghan - Disc Golf Kid: https://www.youtube.com/watch?v=NaSb834_z80
-1.  Andrew Preznell: https://www.youtube.com/watch?v=eb_2HcXgRrg
-1.  Nova Politte: https://www.youtube.com/watch?v=BdFUVFXWQw8
-1.  dB Disc Golf (5min challenge): https://www.youtube.com/watch?v=1sXnG6kfMoE
+1. Paul McBeth and Nick Carl: https://www.youtube.com/watch?v=4L3eQCXOMRI
+1. Disc Golf with Brady (/u/theexistentialfox): https://www.youtube.com/watch?v=qYkntxIMUwk
+1. Simon Lizotte: https://www.youtube.com/watch?v=J-td1obxYa4
+1. Tristan Tanner: https://www.youtube.com/watch?v=40TaycvYIuw
+1. Bradley Williams 2.0: https://www.youtube.com/watch?v=qLnqmDK-WfY
+1. Brodie Smith: https://www.youtube.com/watch?v=Sxw80hDND8U
+1. Chris Clemons: https://www.youtube.com/watch?v=vIQEhm0QA5w
+1. Paige Pierce: https://www.youtube.com/watch?v=YkJrlwri7KA
+1. Luke Callaghan - Disc Golf Kid: https://www.youtube.com/watch?v=NaSb834_z80
+1. Andrew Preznell: https://www.youtube.com/watch?v=eb_2HcXgRrg
+1. Nova Politte: https://www.youtube.com/watch?v=BdFUVFXWQw8
+1. dB Disc Golf (5min challenge): https://www.youtube.com/watch?v=1sXnG6kfMoE
+1. Michael Holt: https://www.youtube.com/watch?v=d2GaD5krwoQ
+1. Oskari Vikström: https://www.youtube.com/watch?v=Fg5I1HshLzs
 
 
 ### TODO: videos with timing info that are yet-to-be-transcribed
-* Chris Clemons: https://www.youtube.com/watch?v=vIQEhm0QA5w
-* Tristan Tanner: https://www.youtube.com/watch?v=40TaycvYIuw
-* Michael Holt: https://www.youtube.com/watch?v=d2GaD5krwoQ
-* Oskari Vikström: https://www.youtube.com/watch?v=Fg5I1HshLzs
 * Pierre Landry: https://www.youtube.com/watch?v=JaVLlPYdwMU
 * GK Pro Team: https://www.youtube.com/watch?v=Epb6qnU2pQ0
 * DGK's Dad: https://www.youtube.com/watch?v=6apP-YJTSlg

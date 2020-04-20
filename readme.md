@@ -17,6 +17,11 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 1. dB Disc Golf (5min challenge): https://www.youtube.com/watch?v=1sXnG6kfMoE
 1. Michael Holt: https://www.youtube.com/watch?v=d2GaD5krwoQ
 1. Oskari Vikström: https://www.youtube.com/watch?v=Fg5I1HshLzs
+1. Cody Winget: https://www.youtube.com/watch?v=h_BZVdeLw2w
+1. Nathaniel Romans: https://www.youtube.com/watch?v=_DtTH3BR9mM
+1. Olivia Kindstedt: https://www.youtube.com/watch?v=Ov8IhLgbH64
+1. Jānis Dombrovskis: https://www.youtube.com/watch?v=FRgLrw4dixc
+1. Jason Sullivan: https://www.youtube.com/watch?v=pCXhvwn2WlY
 
 
 ### TODO: videos with timing info that are yet-to-be-transcribed
@@ -24,19 +29,14 @@ plotting makes from the "10ft - 1hr Challenges" (spoilers!)
 * GK Pro Team: https://www.youtube.com/watch?v=Epb6qnU2pQ0
 * DGK's Dad: https://www.youtube.com/watch?v=6apP-YJTSlg
 * Robert Horton: https://www.youtube.com/watch?v=zUS9VMp4_M0
-* Jason Sullivan: https://www.youtube.com/watch?v=pCXhvwn2WlY
 * Frisbee Rob: https://www.youtube.com/watch?v=Gxel70oKK8M
 * Kevin, The Amateur DG: https://www.youtube.com/watch?v=Yjo2xOZnoZc
 * Brian Guo: https://www.youtube.com/watch?v=GV9kpHhDmhA
-* Nathaniel Romans: https://www.youtube.com/watch?v=_DtTH3BR9mM
 * Connor O'Reilly: https://www.youtube.com/watch?v=Lablfybr83c
-* Disc Golf Examiner: https://www.youtube.com/watch?v=h_BZVdeLw2w
 * Carter Hatch: https://www.youtube.com/watch?v=uBDAG8w4VcE
 * Zac Fries: https://www.youtube.com/watch?v=EOY86hSqKts
 * Dadbod Fishing: https://www.youtube.com/watch?v=lHU4upK0X2g
-* Jānis Dombrovskis: https://www.youtube.com/watch?v=FRgLrw4dixc
 * Kimberly Giannola: https://www.youtube.com/watch?v=ADvUUoTvDQQ
-* Olivia Kindstedt: https://www.youtube.com/watch?v=Ov8IhLgbH64
 * Greg Hearn and Michael Curtiss: https://www.youtube.com/watch?v=WyxRTanbFts
 * Steve Esarey: https://www.youtube.com/watch?v=2DusVta-h90
 * Andrew Wallen: https://www.youtube.com/watch?v=Q2AizTiXiYM

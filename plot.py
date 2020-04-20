@@ -1,6 +1,7 @@
 """Plot data from the 10ft challenge."""
 
 import itertools
+import sys
 
 import matplotlib
 import matplotlib.pyplot as plt
@@ -51,16 +52,17 @@ with open("data.csv") as datafile:
 
 # Plot, starting with a faint background line.
 figure, axis = plt.subplots()
-for player in players:
-    axis.step(
-        player.times,
-        player.distances,
-        "--",
-        label=None,
-        linewidth=1,
-        color="#cccccc",
-        where="post",
-    )
+if '--line' in sys.argv:
+    for player in players:
+        axis.plot(
+            player.times,
+            player.distances,
+            "--",
+            label=None,
+            linewidth=1,
+            color="#cccccc",
+            # where="post",
+        )
 
 # Then plot the markers on top.
 markerstyles = itertools.cycle(("o", "x", "+", "*", "^", "d", ">", "<", "s"))
@@ -70,7 +72,7 @@ for player in players:
         edge_width = 2
     else:
         edge_width = 1
-    axis.step(
+    axis.plot(
         player.times,
         player.distances,
         marker=marker,
@@ -78,14 +80,14 @@ for player in players:
         linewidth=0,
         markersize=10,
         markeredgewidth=edge_width,
-        where="post",
+        # where="post",
     )
 
 # Then circle the transition from putting -> throwing.
 for player in players:
     if player.starts_throwing_at:
         index = player.distances.index(player.starts_throwing_at)
-        axis.step(
+        axis.plot(
             player.times[index],
             player.starts_throwing_at,
             marker="o",
@@ -95,7 +97,7 @@ for player in players:
             markeredgewidth=1,
             fillstyle='none',
             color="#cccccc",
-            where="post",
+            # where="post",
         )
 
 # Finally plot one more entry as a hack to update the legend with some explanatory text.
